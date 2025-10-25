@@ -9,6 +9,13 @@ The project features sections for showcasing products, collections, promotions, 
 
 ---
 
+## 🌐 Visualização Online | Live Preview
+
+🚀 [Visualizar o site no GitHub Pages](https://anaelx77.github.io/magic-ia-landing-page/)
+🚀 [View the website on GitHub Pages](https://anaelx77.github.io/magic-ia-landing-page/)
+
+---
+
 ## 💻 Tecnologias utilizadas | Technologies Used  
 - **HTML5** – Estrutura da página | Page structure  
 - **CSS3** – Estilização e layout responsivo | Styling and responsive layout  
